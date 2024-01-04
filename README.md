@@ -1,6 +1,6 @@
 ### Bug Report
 
-This page lists all bug reports by libalchemy
+This page lists all bug reports by libalchemy(merged into fusion-scan https://github.com/fusion-scan/fusion-scan.github.io/pull/16)
 
 | project   | issue                                                      | description                                              | CVE-ID
 | --------- | -----------------------------------------------------------| -------------------------------------------------------- | ------------------------------------------------------------
